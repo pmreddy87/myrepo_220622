@@ -1,0 +1,21 @@
+---
+- students:
+  - name: rama
+    phone: 8789944
+    address:
+         - street: xxxx
+         - town: xxxx
+         - pin: xxxx
+  - name: krishna
+    phone: 8789944
+    address:
+         - street: xxxx
+         - town: xxxx
+         - pin: xxxx
+  - name: Mc grath
+    phone: 8789944
+    address:
+         - street: xxxx
+         - town: xxxx
+         - pin: xxxx     
+    
